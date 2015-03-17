@@ -1,0 +1,212 @@
+From 3/17/2015 Literature search on Pubmed. Looked for references that cite Holmstrom '10 Complex Encoding paper.
+
+
+1. J Neurophysiol. 2013 Sep;110(5):1190-204. doi: 10.1152/jn.00645.2012. Epub 2013
+Jun 12.
+
+Effects of spectral and temporal disruption on cortical encoding of gerbil
+vocalizations.
+
+Ter-Mikaelian M(1), Semple MN, Sanes DH.
+
+Author information: 
+(1)Center for Neural Science, New York University, New York, New York 10003, USA.
+
+Animal communication sounds contain spectrotemporal fluctuations that provide
+powerful cues for detection and discrimination. Human perception of speech is
+influenced both by spectral and temporal acoustic features but is most critically
+dependent on envelope information. To investigate the neural coding principles
+underlying the perception of communication sounds, we explored the effect of
+disrupting the spectral or temporal content of five different gerbil call types
+on neural responses in the awake gerbil's primary auditory cortex (AI). The
+vocalizations were impoverished spectrally by reduction to 4 or 16 channels of
+band-passed noise. For this acoustic manipulation, an average firing rate of the 
+neuron did not carry sufficient information to distinguish between call types. In
+contrast, the discharge patterns of individual AI neurons reliably categorized
+vocalizations composed of only four spectral bands with the appropriate natural
+token. The pooled responses of small populations of AI cells classified
+spectrally disrupted and natural calls with an accuracy that paralleled human
+performance on an analogous speech task. To assess whether discharge pattern was 
+robust to temporal perturbations of an individual call, vocalizations were
+disrupted by time-reversing segments of variable duration. For this acoustic
+manipulation, cortical neurons were relatively insensitive to short reversal
+lengths. Consistent with human perception of speech, these results indicate that 
+the stable representation of communication sounds in AI is more dependent on
+sensitivity to slow temporal envelopes than on spectral detail.
+
+PMCID: PMC3763096
+PMID: 23761696  [PubMed - indexed for MEDLINE]
+
+
+2. J Neurophysiol. 2013 Apr;109(7):1912-27. doi: 10.1152/jn.00483.2012. Epub 2013
+Jan 16.
+
+Encoding of ultrasonic vocalizations in the auditory cortex.
+
+Carruthers IM(1), Natan RG, Geffen MN.
+
+Author information: 
+(1)Dept. of Otorhinolaryngology and Head and Neck Surgery, Univ. of Pennsylvania 
+Perelman School of Medicine, Philadelphia, PA 19104, USA.
+
+One of the central tasks of the mammalian auditory system is to represent
+information about acoustic communicative signals, such as vocalizations. However,
+the neuronal computations underlying vocalization encoding in the central
+auditory system are poorly understood. To learn how the rat auditory cortex
+encodes information about conspecific vocalizations, we presented a library of
+natural and temporally transformed ultrasonic vocalizations (USVs) to awake rats 
+while recording neural activity in the primary auditory cortex (A1) with
+chronically implanted multielectrode probes. Many neurons reliably and
+selectively responded to USVs. The response strength to USVs correlated strongly 
+with the response strength to frequency-modulated (FM) sweeps and the FM rate
+tuning index, suggesting that related mechanisms generate responses to USVs as to
+FM sweeps. The response strength further correlated with the neuron's best
+frequency, with the strongest responses produced by neurons whose best frequency 
+was in the ultrasonic frequency range. For responses of each neuron to each
+stimulus group, we fitted a novel predictive model: a reduced generalized
+linear-nonlinear model (GLNM) that takes the frequency modulation and single-tone
+amplitude as the only two input parameters. The GLNM accurately predicted
+neuronal responses to previously unheard USVs, and its prediction accuracy was
+higher than that of an analogous spectrogram-based linear-nonlinear model. The
+response strength of neurons and the model prediction accuracy were higher for
+original, rather than temporally transformed, vocalizations. These results
+indicate that A1 processes original USVs differentially than transformed USVs,
+indicating preference for temporal statistics of the original vocalizations.
+
+PMCID: PMC4073926
+PMID: 23324323  [PubMed - indexed for MEDLINE]
+
+
+3. Front Neural Circuits. 2012 Sep 6;6:58. doi: 10.3389/fncir.2012.00058.
+eCollection 2012.
+
+From behavioral context to receptors: serotonergic modulatory pathways in the IC.
+
+Hurley LM(1), Sullivan MR.
+
+Author information: 
+(1)Department of Biology, Center for the Integrative Study of Animal Behavior,
+Indiana University Bloomington, IN, USA.
+
+In addition to ascending, descending, and lateral auditory projections, inputs
+extrinsic to the auditory system also influence neural processing in the inferior
+colliculus (IC). These types of inputs often have an important role in signaling 
+salient factors such as behavioral context or internal state. One route for such 
+extrinsic information is through centralized neuromodulatory networks like the
+serotonergic system. Serotonergic inputs to the IC originate from centralized
+raphe nuclei, release serotonin in the IC, and activate serotonin receptors
+expressed by auditory neurons. Different types of serotonin receptors act as
+parallel pathways regulating specific features of circuitry within the IC. This
+results from variation in subcellular localizations and effector pathways of
+different receptors, which consequently influence auditory responses in distinct 
+ways. Serotonin receptors may regulate GABAergic inhibition, influence response
+gain, alter spike timing, or have effects that are dependent on the level of
+activity. Serotonin receptor types additionally interact in nonadditive ways to
+produce distinct combinatorial effects. This array of effects of serotonin is
+likely to depend on behavioral context, since the levels of serotonin in the IC
+transiently increase during behavioral events including stressful situations and 
+social interaction. These studies support a broad model of serotonin receptors as
+a link between behavioral context and reconfiguration of circuitry in the IC, and
+the resulting possibility that plasticity at the level of specific receptor types
+could alter the relationship between context and circuit function.
+
+PMCID: PMC3434355
+PMID: 22973195  [PubMed]
+
+
+REVIEWS FROM SAME SEARCH ON 3/17/2015
+
+1. Int Rev Neurobiol. 2005;70:169-205.
+
+Spectral processing in the inferior colliculus.
+
+Davis KA(1).
+
+Author information: 
+(1)Department of Biomedical Engineering and Neurobiology, University of
+Rochester, Rochester, New York 14642, USA.
+
+PMID: 16472635  [PubMed - indexed for MEDLINE]
+
+
+2. Annu Rev Neurosci. 2009;32:315-46. doi: 10.1146/annurev.neuro.051508.135431.
+
+The primate cortical auditory system and neural representation of conspecific
+vocalizations.
+
+Romanski LM(1), Averbeck BB.
+
+Author information: 
+(1)Department of Neurobiology and Anatomy, University of Rochester School of
+Medicine, Rochester, New York 14642, USA. Liz_romanski@urmc.rochester.edu
+
+Over the past decade, renewed interest in the auditory system has resulted in a
+surge of anatomical and physiological research in the primate auditory cortex and
+its targets. Anatomical studies have delineated multiple areas in and around
+primary auditory cortex and demonstrated connectivity among these areas, as well 
+as between these areas and the rest of the cortex, including prefrontal cortex.
+Physiological recordings of auditory neurons have found that species-specific
+vocalizations are useful in probing the selectivity and potential functions of
+acoustic neurons. A number of cortical regions contain neurons that are robustly 
+responsive to vocalizations, and some auditory responsive neurons show more
+selectivity for vocalizations than for other complex sounds. Demonstration of
+selectivity for vocalizations has prompted the question of which features are
+encoded by higher-order auditory neurons. Results based on detailed studies of
+the structure of these vocalizations, as well as the tuning and
+information-coding properties of neurons sensitive to these vocalizations, have
+begun to provide answers to this question. In future studies, these and other
+methods may help to define the way in which cells, ensembles, and brain regions
+process communication sounds. Moreover, the discovery that several nonprimary
+auditory cortical regions may be multisensory and responsive to vocalizations
+with corresponding facial gestures may change the way in which we view the
+processing of communication information by the auditory system.
+
+PMCID: PMC2767298
+PMID: 19400713  [PubMed - indexed for MEDLINE]
+
+
+3. Hear Res. 2013 Nov;305:135-43. doi: 10.1016/j.heares.2013.07.011. Epub 2013 Jul
+26.
+
+Coding of vocalizations by single neurons in ventrolateral prefrontal cortex.
+
+Plakke B(1), Diltz MD, Romanski LM.
+
+Author information: 
+(1)Dept. Neurobiology & Anatomy, Univ. of Rochester, Box 603, Rochester, NY
+14642, USA.
+
+Neuronal activity in single prefrontal neurons has been correlated with
+behavioral responses, rules, task variables and stimulus features. In the
+non-human primate, neurons recorded in ventrolateral prefrontal cortex (VLPFC)
+have been found to respond to species-specific vocalizations. Previous studies
+have found multisensory neurons which respond to simultaneously presented faces
+and vocalizations in this region. Behavioral data suggests that face and vocal
+information are inextricably linked in animals and humans and therefore may also 
+be tightly linked in the coding of communication calls in prefrontal neurons. In 
+this study we therefore examined the role of VLPFC in encoding vocalization call 
+type information. Specifically, we examined previously recorded single unit
+responses from the VLPFC in awake, behaving rhesus macaques in response to 3
+types of species-specific vocalizations made by 3 individual callers. Analysis of
+responses by vocalization call type and caller identity showed that ∼19% of cells
+had a main effect of call type with fewer cells encoding caller. Classification
+performance of VLPFC neurons was ∼42% averaged across the population. When
+assessed at discrete time bins, classification performance reached 70 percent for
+coos in the first 300 ms and remained above chance for the duration of the
+response period, though performance was lower for other call types. In light of
+the sub-optimal classification performance of the majority of VLPFC neurons when 
+only vocal information is present, and the recent evidence that most VLPFC
+neurons are multisensory, the potential enhancement of classification with the
+addition of accompanying face information is discussed and additional studies
+recommended. Behavioral and neuronal evidence has shown a considerable benefit in
+recognition and memory performance when faces and voices are presented
+simultaneously. In the natural environment both facial and vocalization
+information is present simultaneously and neural systems no doubt evolved to
+integrate multisensory stimuli during recognition. This article is part of a
+Special Issue entitled "Communication Sounds and the Brain: New Directions and
+Perspectives".
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+PMCID: PMC3979279
+PMID: 23895874  [PubMed - indexed for MEDLINE]

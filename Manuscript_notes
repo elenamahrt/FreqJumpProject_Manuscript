@@ -3,8 +3,17 @@ Thinking about how distortion products are generated.
 It is important to know how DP's are created because I will be using Pat's model that creates distortion products in stimuli. 
 Reading Frank & Koessl 1996
 Boltzmann function (have also seen it written as "Boltzman" function with only one 'n') describes the input/output function of DP's
-Based on discussions with Pat, the 
+Based on discussions with Pat, the straight part of the curve contributes to? can't remember... 
+The curvey part contributes to the actual distortion product. In his understanding of how it should work, a distortion value of "2" should create the right distortion frequencies. 
+To create the intensity of the DP's, he changes the amount of "reverberation". Think of this reverberation as the number of times that he adds in the signal with delay and attenuation. Currently he thinks
+
+Numbers that Pat discusses with relation to the model that I need to understand: 
+2 = the amount of delay in the reverberation. 
+5 ms = the amount of reverberation. This is the number of times the signal is added to the original (but with 2 ms delay and decreased wave envelope height (amplitude?)). i.e. how long is the signal reverberating on the BM
+4 = creates the greatest intensity of the DP's
+10 = creates a medium amount of intensity of the DP's
+20 = created the least amount of intensity of the DP's
+
+3/17/2015
 
 
-
-	(From discussion with Pat)
